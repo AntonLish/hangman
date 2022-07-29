@@ -47,3 +47,5 @@ def hangman(word):
 wrd = random.choice(words)
 
 hangman(wrd)
+
+#сработало
